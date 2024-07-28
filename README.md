@@ -29,10 +29,10 @@ Follow these instructions to set up the project locally.
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/Terieyenike/caption-image-server.git
-   cd caption-image-server
-   ```
+```bash
+git clone https://github.com/Terieyenike/caption-image-server.git
+cd caption-image-server
+```
 
 2. Install dependencies
 
